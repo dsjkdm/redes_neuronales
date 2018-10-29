@@ -24,7 +24,6 @@ x2pos = [0.829676071055381 0.796238244514107];
 y2pos = [0.786828947368421 0.526315789473684];
 annotation('textarrow', x2pos, y2pos,'String','Baja');
 
-
 % ACTIVIDAD 2: OPERACIONES CON MATRICES
 
 % Definicion de la matriz
